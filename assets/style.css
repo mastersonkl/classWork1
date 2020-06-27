@@ -3,6 +3,20 @@
   height: 500px;
   border-radius: 10px;
 }
+
+.jumbotron {
+  background-color: lightslategrey;
+}
+
+.display-4 {
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+}
+
 #top-articles-container {
   border: 2px solid black;
   height: 200px;
