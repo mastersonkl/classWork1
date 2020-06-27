@@ -3,6 +3,7 @@
   height: 500px;
   border-radius: 10px;
 }
+<<<<<<< HEAD
 .jumbotron {
   background-color: lightslategrey;
 }
@@ -14,4 +15,11 @@
 
 h1 {
   font-weight: bold;
+=======
+#top-articles-container {
+  border: 2px solid black;
+  height: 200px;
+  border-radius: 10px;
+  overflow: auto;
+>>>>>>> 3234d423e3c78f22f7eabb76ed0c3c9247e1c2f4
 }
