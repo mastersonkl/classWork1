@@ -21,5 +21,9 @@ h1 {
   height: 200px;
   border-radius: 10px;
   overflow: auto;
+<<<<<<< HEAD
 >>>>>>> 3234d423e3c78f22f7eabb76ed0c3c9247e1c2f4
+=======
+  margin-bottom: 400px;
+>>>>>>> e3d5920831db1972648a23014bda004255c6d72a
 }
