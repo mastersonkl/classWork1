@@ -6,4 +6,11 @@ $.ajax({
   method: "GET",
 }).then(function (response) {
   console.log(response);
+  var results = response.docs;
+
+  for (var i = 0; i < results.length; i++) {
+    var articlesDiv = $("<div>");
+    var p = $("<p>").text(results[i].headline);
+    console.log(results[i].headline);
+  }
 });
